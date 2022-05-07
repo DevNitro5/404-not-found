@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://interior-design-project-2022.netlify.app/">
+    <a href="https://devnitro5.github.io/404-not-found/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/NIB0aSODZ3V8BUHXB5c3">
       Solution
     </a>
     <span> | </span>
@@ -35,8 +35,8 @@
 
 ![screenshot](./preview.png)
 
-- View the [live demo](https://interior-design-project-2022.netlify.app/)
-- 3rd Dev Challenges project
+- View the [live demo](https://devnitro5.github.io/404-not-found/)
+- 1st Dev Challenges project
 - Mobile first
 
 ### Built With
@@ -47,7 +47,7 @@
 
 ## Features
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
 ## Contact
 
